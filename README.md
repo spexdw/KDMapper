@@ -12,19 +12,6 @@
 </div>
 <br>
 <hr>
-<h2>Table of Contents</h2>
-<ul class="list-disc pl-4 my-0">
-<li class="my-0"><a href="#overview">Overview</a></li>
-<li class="my-0"><a href="#getting-started">Getting Started</a>
-<ul class="list-disc pl-4 my-0">
-<li class="my-0"><a href="#prerequisites">Prerequisites</a></li>
-<li class="my-0"><a href="#installation">Installation</a></li>
-<li class="my-0"><a href="#usage">Usage</a></li>
-<li class="my-0"><a href="#testing">Testing</a></li>
-</ul>
-</li>
-</ul>
-<hr>
 <h2>Overview</h2>
 <p>KDMapper is a versatile developer tool crafted for advanced kernel driver management, memory manipulation, and system analysis on Windows. It empowers developers to dynamically load, map, and unload drivers, perform in-depth PE file analysis, and interact directly with hardware components for high-performance tasks.</p>
 <p><strong>Why KDMapper?</strong></p>
